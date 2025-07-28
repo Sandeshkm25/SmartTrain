@@ -23,11 +23,10 @@ SmartTrain is a full-featured **Spring Boot RESTful API** that allows users to r
 | Backend          | Java + Spring Boot             |
 | Security         | Spring Security + JWT          |
 | ORM & DB Access  | Spring Data JPA + Hibernate    |
-| Database         | MySQL / H2 (dev)               |
-| API Docs         | Swagger (optional)             |
+| Database         | MySQL                          |
 | Testing Tool     | Postman                        |
 | Build Tool       | Maven                          |
-| IDE              | IntelliJ IDEA                  |
+| IDE              | Spring Tool Suite              |
 
 ---
 
